@@ -14,7 +14,7 @@ public class Testcase1 {
 
 	@Test
 	public void Reg_Test1() throws InterruptedException {
-		
+		//New changes from GitHub
 		WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver=new ChromeDriver();
